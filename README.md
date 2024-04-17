@@ -3,7 +3,7 @@ Analysis of football penalties and predictive model for straight forecast in hor
 
 ## Football Penalties
 
-A dataset of penalties (penalties_dataset_anonymized.csv) is given and we would like to address the following questions:
+A dataset of penalties (penalties_dataset_anonymous.csv) is given and we would like to address the following questions:
 1. Are the penalty conversion rates between men and women different?
 2. Who are the best five penalty takers in the dataset?
 3. Develop a order strategy for the penalty shootouts for a team to maximize the probability of winning. Provide a short presentation.
